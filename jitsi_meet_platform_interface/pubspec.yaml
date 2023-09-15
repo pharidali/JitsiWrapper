@@ -2,6 +2,7 @@ name: jitsi_meet_platform_interface
 description: A common platform interface for the jitsi meet plugin.
 version: 2.0.0
 homepage: https://github.com/gunschu/jitsi_meet
+publish_to: none
 
 environment:
   sdk: '>=2.12.0 <3.0.0'

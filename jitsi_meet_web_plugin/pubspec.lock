@@ -67,10 +67,9 @@ packages:
   jitsi_meet_platform_interface:
     dependency: "direct main"
     description:
-      name: jitsi_meet_platform_interface
-      sha256: "161bdedd62a2756e5e2ce868c1e8f82d040f1ad24cc46c3c028ac04e339d9492"
-      url: "https://pub.dev"
-    source: hosted
+      path: "../jitsi_meet_platform_interface"
+      relative: true
+    source: path
     version: "2.0.0"
   js:
     dependency: "direct main"
